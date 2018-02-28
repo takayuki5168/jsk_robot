@@ -35,6 +35,7 @@
   <run_depend>peppereus</run_depend>
   <run_depend>pr2_base_trajectory_action</run_depend>
   <run_depend>roseus_remote</run_depend>
+  <run_depend>remap_marker_msgs</run_depend>
 
   <export>
     <metapackage/>
